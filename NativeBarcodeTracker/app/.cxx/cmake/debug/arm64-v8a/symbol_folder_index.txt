@@ -1,0 +1,1 @@
+C:\Users\ladiaviakoye\Documents\RealtimeBarcodeTracker\RealtimeBarcodeTracker-master\NativeBarcodeTracker\app\build\intermediates\cmake\debug\obj\arm64-v8a

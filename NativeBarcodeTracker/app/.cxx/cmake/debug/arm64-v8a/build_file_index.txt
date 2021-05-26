@@ -1,0 +1,1 @@
+C:\Users\ladiaviakoye\Documents\RealtimeBarcodeTracker\RealtimeBarcodeTracker-master\NativeBarcodeTracker\app\src\main\cpp\CMakeLists.txt
